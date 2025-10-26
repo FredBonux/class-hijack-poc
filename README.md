@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Proof-of-Concept (PoC) code and replication scripts for the paper **Maven-Hijack: Software Supply Chain Attack Exploiting Packaging Order**.
+This repository contains the Proof-of-Concept (PoC) code and replication scripts for the paper **[Maven-Hijack: Software Supply Chain Attack Exploiting Packaging Order](https://arxiv.org/pdf/2407.18760)**.
 
 ### Abstract
 
